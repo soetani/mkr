@@ -32,8 +32,8 @@
     }
   },
   "buildpacks": [
-    {
-      "url": "https://github.com/stomita/heroku-buildpack-phantomjs.git"
-    }
+    { "url": "heroku/ruby" },
+    { "url": "https://github.com/stomita/heroku-buildpack-phantomjs" }
+
   ]
 }
