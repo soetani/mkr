@@ -16,6 +16,11 @@
     "SLACK_WEBHOOK_URL": {
       "description": "Slack webhook URL (Optional)",
       "required": false
+    },
+    "TZ" : {
+      "description": "Time Zone (Optional)",
+      "value": "Asia/Tokyo",
+      "required": false
     }
   },
   "buildpacks": [
