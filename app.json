@@ -9,6 +9,14 @@
     "KOT_PW": {
       "description": "Your KOT Password"
     },
+    "KOT_PUNCH_IN_BEFORE": {
+      "description": "Punch in before",
+      "value": "10"
+    },
+    "KOT_PUNCH_OUT_AFTER": {
+      "description": "Punch in after",
+      "value": "16"
+    },
     "USER_NAME": {
       "description": "Your name (Optional)",
       "required": false
