@@ -37,7 +37,7 @@ module Mkr
       def punch_emoji(action)
         case action
         when :punch_in
-          ':office: :taxt: :moyai: :dash:'
+          ':office: :taxi: :moyai: :dash:'
         when :punch_out
           ':taxi: :moyai: :office: :dash:'
         end
