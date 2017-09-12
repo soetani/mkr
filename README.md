@@ -5,5 +5,5 @@ My KOT Recorder
 
 foobar
 no
-wow
+wow2
 great!
